@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Juliano Lima
 
-<!--
-**julianolima-ds/julianolima-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência de Dados na Estácio (1º semestre)  
+💻 Certificado em Python | Estudando SQL e MySQL  
+📈 Em transição de carreira para a área de dados  
+📚 Aprendendo todos os dias e desenvolvendo projetos próprios
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias que estou aprendendo
+- Python (pandas, matplotlib)
+- SQL / MySQL
+- Git & GitHub
+- Ciência de Dados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Em breve
+- Projetos práticos com Python e SQL
+- Análises de dados públicas no repositório
+
+---
+
+📫 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/juliano-lima-5314a1214/)
