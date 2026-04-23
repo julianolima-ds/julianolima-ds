@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Juliano Lima
 
-🎓 Estudante de Ciência de Dados na Estácio (1º semestre)  
+🎓 Estudante de Ciência de Dados na Estácio (4º semestre)  
 💻 Certificado em Python | Estudando SQL e MySQL  
 📈 Em transição de carreira para a área de dados  
 📚 Aprendendo todos os dias e desenvolvendo projetos próprios
@@ -10,6 +10,7 @@
 - SQL / MySQL
 - Git & GitHub
 - Ciência de Dados
+- Power BI
 
 ## 📌 Em breve
 - Projetos práticos com Python e SQL
